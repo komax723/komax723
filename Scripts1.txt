@@ -1,0 +1,5 @@
+--arsenal loadstring(game:HttpGet("https://raw.githubusercontent.com/HonestlyDex/DexHub/main/Arsenal"))()
+--project slayers loadstring(game:HttpGet("https://raw.githubusercontent.com/LeadMarker/Scripts/main/ProjectSlayer.lua"))()
+--phantom forces loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidMasterX/strawhook/main/script.lua", true))()
+--reaper 2 loadstring(game:HttpGet("https://raw.githubusercontent.com/10x00/Public-Scripts/main/Reaper%202.lua"))()
+--shindo life https://pastebin.com/X0Ke4rSY
